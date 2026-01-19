@@ -9,7 +9,6 @@
 I am an Electronics Engineer with primary focus on VLSI Frontend (RTL Design & Verification) and strong exposure to Embedded Systems and SoC platforms.  
 My work involves FPGA based major project, Embedded Linux OS development using Petalinux, protocol-level RTL design, SystemVerilog-based verification, and hardware–software co-design on FPGA-based ARM systems.
 
-I am particularly interested in roles that combine **digital design rigor** with **real hardware deployment.
 
 ---
 
